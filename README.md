@@ -1,0 +1,1 @@
+[![CI Check](https://github.com/BurV27/autotest-2/actions/workflows/ci.yml/badge.svg)](https://github.com/BurV27/autotest-2/actions/workflows/ci.yml)
